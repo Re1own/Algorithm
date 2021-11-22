@@ -1,0 +1,21 @@
+1.比如输入1 2 3 4 5到一个数组Array中
+Array = list(map(int, input().split()))
+
+2.切片方法split()
+比如str = "ab sd zx sdw"
+则str.split(' ', 1) 就是 ['ab', 'sd zx sdw']
+str.split(' ', 2)  就是 ['ab', 'sd', 'zx sdw']
+str.split(' ')	就是 ['ab', 'sd, 'zx', 'sdw']
+
+3.Sequence[start:end:step]	step == -1的时候表示翻转
+比如a = [1, 2, 3, 4, 5]	a[0:-1:1]表示从1,2,3,4,5
+a[0:-1:-1]等价于a[::-1]表示5,4,3,2,1
+
+4.给定list,如何以空格/逗号等符号以分隔符输出呢？
+a = [1, 2, 3, 4, 5]
+print(' '.join(str(i) for i in a))
+print(','.join(str(i) for i in a))
+以上两种方法最后都没有多余的空格
+要在最后有空格则这样
+for i in a:
+    print(i, end = ' ')  

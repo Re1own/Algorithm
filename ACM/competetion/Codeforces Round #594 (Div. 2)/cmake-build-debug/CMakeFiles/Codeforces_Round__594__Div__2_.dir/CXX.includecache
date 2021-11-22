@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhouhuizhen/Desktop/ACM/Codeforces Round #594 (Div. 2)/main.cpp
+iostream
+-
+cmath
+-
+algorithm
+-
+set
+-
+

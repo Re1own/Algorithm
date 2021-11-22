@@ -1,0 +1,2 @@
+1.计算vector数组和用 accumulate(array.begin(), array.end(), temp)	表示求array数组中的和 + temp  (temp必须写,不然报错)	此函数包含于头文件<numeric>中
+
