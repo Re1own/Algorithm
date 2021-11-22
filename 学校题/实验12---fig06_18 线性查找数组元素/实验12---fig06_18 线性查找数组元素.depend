@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543882375 source:e:\编程\学校题\实验12---fig06_18 线性查找数组元素\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

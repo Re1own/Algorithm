@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543825810 source:e:\编程\算法\欧几里德算法求最大公约数\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cmath>
+

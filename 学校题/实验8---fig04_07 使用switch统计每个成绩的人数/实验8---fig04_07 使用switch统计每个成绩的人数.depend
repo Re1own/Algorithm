@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541464334 source:e:\编程\学校题\实验8---fig04_07 使用switch统计每个成绩的人数\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

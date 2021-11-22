@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543884691 source:e:\编程\学校题\折半查找\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+
