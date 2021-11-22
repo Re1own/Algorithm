@@ -1,3 +1,0 @@
-/Users/zhouhuizhen/Desktop/ACM/Codeforces Round #594 (Div. 2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/zhouhuizhen/Desktop/ACM/Codeforces Round #594 (Div. 2)/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/zhouhuizhen/Desktop/ACM/Codeforces Round #594 (Div. 2)/cmake-build-debug/CMakeFiles/Codeforces_Round__594__Div__2_.dir

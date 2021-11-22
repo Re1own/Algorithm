@@ -1,3 +1,0 @@
-/Users/zhouhuizhen/Desktop/ACM/gr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/zhouhuizhen/Desktop/ACM/gr/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/zhouhuizhen/Desktop/ACM/gr/cmake-build-debug/CMakeFiles/gr.dir
